@@ -41,24 +41,41 @@ Most apps assume you already know what to buy. **FinMantra** assumes you are sca
 ### 1. Landing Page
 
 
-<img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/b6ba223a-160c-4482-8d62-6b29555d4794" />
+<img width="1366" height="625" alt="Screenshot from 2025-12-31 18-46-39" src="https://github.com/user-attachments/assets/e00383d9-b7e3-4d21-a66a-a7fd56500e95" />
+
+
+
+
+
+
 
 
 ### 2. AI chatbot
 
 <img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/1ccf4c2f-b897-43bd-9b6f-7d39bac96379" />
 
-### 3. Learn Center
+
+
+### 3. Myth Buster
+<img width="1366" height="625" alt="Screenshot from 2025-12-31 18-46-52" src="https://github.com/user-attachments/assets/80a3b9e3-4f3e-4c51-b3ae-cbf342d6538a" />
+
+
+### 4. Learn Center
 
 <img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/c3d65250-40dd-4f67-94ee-fba33125ad15" />
 
 
-### 4. Risk Simulator
+### 5. Risk Simulator
 
 
 <img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/1b0f73f8-e553-44c5-89b9-fbec23313d58" />
 
 
+### 6. Saftey Trust
+
+
+
+<img width="1366" height="625" alt="Screenshot from 2025-12-31 18-46-56" src="https://github.com/user-attachments/assets/79a4ab79-a781-4f32-90c4-845c050eab9f" />
 
 
 
