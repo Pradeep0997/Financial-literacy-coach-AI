@@ -38,48 +38,88 @@ Most apps assume you already know what to buy. **FinMantra** assumes you are sca
 
 ## 📸 Screenshots & Demo
 
-### 1. Zero-Friction Onboarding
-*Instead of boring forms, users select their "Big Fear" and "Big Dream" using cards.*
+### 1. Landing Page
 
-### 2. The "Golden Prompt" (AI Logic)
-*This is the core instruction set that makes FinMantra unique:*
 
-```text
-ROLE: You are 'FinMantra', an empathetic Indian financial coach.
+<img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/b6ba223a-160c-4482-8d62-6b29555d4794" />
+
+
+### 2. AI chatbot
+
+<img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/1ccf4c2f-b897-43bd-9b6f-7d39bac96379" />
+
+### 3. Learn Center
+
+<img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/c3d65250-40dd-4f67-94ee-fba33125ad15" />
+
+
+### 4. Risk Simulator
+
+
+<img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/1b0f73f8-e553-44c5-89b9-fbec23313d58" />
+
+
+
+
+
+
+# ROLE: You are 'FinMantra', an empathetic Indian financial coach.
 
 CORE RULES:
 1. NO JARGON: Explain concepts using analogies (Cricket, Weather, Food).
 2. EMPATHY FIRST: Acknowledge the user's fear before explaining math.
 3. FORMATTING: Use bold text, bullet points, and short paragraphs.
 4. SAFETY: Never recommend specific stocks. Always suggest Index Funds/SIPs for beginners.
+
+```
+
 🚀 How to Run Locally
+
+
 1. Clone the repository
-code
-Bash
+
 git clone https://github.com/your-username/finmantra.git
 cd finmantra
+
+
 2. Install Dependencies
-code
-Bash
+
 npm install
+
+
+
 3. Set up Environment Variables
+
+
 Create a .env file in the root directory and add your Google Gemini API key:
-code
-Env
+
+
+.env
+
+
 VITE_GEMINI_API_KEY=your_api_key_here
+
+
 4. Run the App
 
 npm run dev
 
 ```
-🧠 "Backup Brain" Architecture
-To ensure reliability during the demo, FinMantra includes a Fall-Back Knowledge Base.
-If the AI API hits a rate limit or network error, the system seamlessly switches to a pre-written expert knowledge base, ensuring the user always gets a perfect answer for common questions like:
-"Is SIP safe?"
-"What if the market crashes?"
-"How do I save tax?"
-🏆 Startup School: Prompt to Prototype
-This project was built for the Build the Future Showcase (Nov-Dec 2025).
-Prompt Engineering Strategy: Uses "Persona-Based Prompting" + "Few-Shot Examples" to ground the AI in Indian cultural context.
-User Centric Design: Solves the specific pain point of anxiety in financial decision making.
+# 🧠 "Backup Brain" Architecture
+
+- To ensure reliability during the demo, FinMantra includes a Fall-Back Knowledge Base.
+- If the AI API hits a rate limit or network error, the system seamlessly switches to a pre-written expert knowledge base, ensuring the user always gets    a perfect answer for common questions like:
+    - "Is SIP safe?"
+    - "What if the market crashes?"
+    - "How do I save tax?"
+ 
+      
+# 🏆 Startup School: Prompt to Prototype
+
+
+- This project was built for the Build the Future Showcase (Nov-Dec 2025).
+- Prompt Engineering Strategy: Uses "Persona-Based Prompting" + "Few-Shot Examples" to ground the AI in Indian cultural context.
+- User Centric Design: Solves the specific pain point of anxiety in financial decision making.
+
+
 Made with ❤️ in India.
