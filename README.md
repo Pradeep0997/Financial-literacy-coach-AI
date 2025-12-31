@@ -68,9 +68,10 @@ code
 Env
 VITE_GEMINI_API_KEY=your_api_key_here
 4. Run the App
-code
-Bash
+
 npm run dev
+
+```
 🧠 "Backup Brain" Architecture
 To ensure reliability during the demo, FinMantra includes a Fall-Back Knowledge Base.
 If the AI API hits a rate limit or network error, the system seamlessly switches to a pre-written expert knowledge base, ensuring the user always gets a perfect answer for common questions like:
