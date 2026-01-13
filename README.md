@@ -17,7 +17,7 @@ Investing in India is intimidating.
 Most apps assume you already know what to buy. **FinMantra** assumes you are scared and need a friend first, not a broker.
 
 ## 💡 The Solution
-**FinMantra** is an AI-powered educational coach that explains money using **Indian analogies** (like Chai, Cricket, and Traffic) instead of Wall Street math.
+**FinMantra** is an An AI coach that explains **investing and stock market concepts** using simple Indian examples, helping **beginners** overcome fear and confusion..
 
 ### ✨ Key Features
 *   **🤖 AI Coach (Gemini 1.5):** A chat assistant that speaks simple English. It doesn't give tips; it gives clarity.
